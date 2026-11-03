@@ -1,93 +1,85 @@
-<p align="center"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/profile-header.svg" width="100%" alt="Yoandry Romay — Software Engineering · Web Development · Digital Growth" /></p>
-<p align="center"><strong>Português</strong> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.en.md">English</a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.es.md">Español</a></p>
-<p align="center"><strong>Engenharia de software, desenvolvimento web e estratégia digital.</strong></p>
-<p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/">LinkedIn</a> · <a href="https://profiles.wordpress.org/yoaromay/">WordPress.org</a> · <a href="https://nikkoturismo.com.br/">Nikko Turismo</a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/profile-header.svg" width="100%" alt="Yoandry Romay — Engenharia de software · Desenvolvimento web · SEO e marketing digital" /></p>
 
-Sou formado em Engenharia em Ciências Informáticas pela UCI (Havana) e atuo na interseção entre desenvolvimento web, SEO técnico, performance e aquisição digital. Hoje trabalho como **Analista de Marketing Digital na Nikko Turismo**, em São Paulo, combinando implementação técnica com objetivos de negócio.
+<p align="center"><a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.md"><strong>Português</strong></a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.en.md">English</a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.es.md">Español</a></p>
 
-## Projetos selecionados
-Projetos reais, com foco em experiência de uso, manutenção, performance e geração de oportunidades.
+<p align="center"><strong>Engenharia de software · Desenvolvimento web · SEO e marketing digital</strong></p>
+
+<p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/">LinkedIn</a> · <a href="mailto:yoandry.romay@gmail.com">E-mail</a> · <a href="https://profiles.wordpress.org/yoaromay/">WordPress.org</a></p>
+
+Sou engenheiro em Ciências Informáticas pela Universidad de las Ciencias Informáticas (UCI), em Havana, com mais de 6 anos de experiência digital. Trabalho com desenvolvimento web, SEO técnico, performance, conteúdo e aquisição digital. Atualmente sou <strong>Analista de Marketing Digital na Nikko Turismo</strong>, em São Paulo.
+
+## Projetos em destaque
+
+As capturas abrem os sites. A apresentação em uma coluna mantém textos e imagens legíveis também em dispositivos móveis.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nikko-turismo.jpg" alt="Nikko Turismo — website screenshot" width="100%"/></a>
+<tr><td width="100%">
+<a href="https://nikkoturismo.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nikko-turismo.jpg" alt="Nikko Turismo website screenshot" width="100%" /></a>
 <h3><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></h3>
-<p><strong>✦ PROJETO MAIS RECENTE · 2026</strong></p>
-<p>Site da agência de viagens, com tema filho, templates dinâmicos de pacotes turísticos, componentes e integrações próprias.</p>
+<p>Desenvolvimento e evolução do site da agência, com tema filho WordPress, estrutura dinâmica para pacotes turísticos e páginas de campanhas.</p>
 <p><code>WordPress</code> <code>PHP</code> <code>ACF</code> <code>Elementor</code></p>
-<p><a href="https://nikkoturismo.com.br/"><strong>Acessar site →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://ncvinilicos.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos — website screenshot" width="100%"/></a>
-<h3><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></h3>
-<p>Landing page responsiva para serviços de pisos vinílicos, orientada à conversão e ao contato comercial.</p>
-<p><code>WordPress</code> <code>SEO local</code> <code>UX</code> <code>WhatsApp</code></p>
-<p><a href="https://ncvinilicos.com.br/"><strong>Acessar site →</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://primekore.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/primekore.jpg" alt="PrimeKore — website screenshot" width="100%"/></a>
-<h3><a href="https://primekore.com.br/">PrimeKore</a></h3>
-<p>Desenvolvimento completo da presença digital, serviços, identidade visual e estrutura de conteúdo para captação.</p>
-<p><code>Web Design</code> <code>WordPress</code> <code>SEO</code> <code>Performance</code></p>
-<p><a href="https://primekore.com.br/"><strong>Acessar site →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/costao-matsuri.jpg" alt="Costão Matsuri — website screenshot" width="100%"/></a>
+<p><a href="https://nikkoturismo.com.br/"><strong>Abrir site →</strong></a></p>
+</td></tr>
+<tr><td width="100%">
+<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/costao-matsuri.jpg" alt="Costão Matsuri website screenshot" width="100%" /></a>
 <h3><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri</a></h3>
-<p>Página de campanha turística criada para apresentar o evento e estimular solicitações comerciais.</p>
-<p><code>Landing Page</code> <code>UX</code> <code>Marketing</code> <code>WordPress</code></p>
-<p><a href="https://nikkoturismo.com.br/costao-matsuri/"><strong>Acessar site →</strong></a></p>
-</td>
-</tr>
+<p>Landing page turística para apresentar a oferta, organizar informações da viagem e estimular pedidos de orçamento.</p>
+<p><code>Landing page</code> <code>WordPress</code> <code>UX</code> <code>Marketing</code></p>
+<p><a href="https://nikkoturismo.com.br/costao-matsuri/"><strong>Abrir site →</strong></a></p>
+</td></tr>
+<tr><td width="100%">
+<a href="https://ncvinilicos.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos website screenshot" width="100%" /></a>
+<h3><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></h3>
+<p>Presença digital para empresa de revestimentos vinílicos, com páginas comerciais responsivas e contato via WhatsApp.</p>
+<p><code>WordPress</code> <code>SEO local</code> <code>Google Ads</code> <code>WhatsApp</code></p>
+<p><a href="https://ncvinilicos.com.br/"><strong>Abrir site →</strong></a></p>
+</td></tr>
+<tr><td width="100%">
+<a href="https://primekore.com/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/primekore.jpg" alt="PrimeKore website screenshot" width="100%" /></a>
+<h3><a href="https://primekore.com/">PrimeKore</a></h3>
+<p>Projeto de marca e presença digital para serviços web e marketing: identidade visual, páginas de serviços, conteúdo e SEO.</p>
+<p><code>WordPress</code> <code>Web design</code> <code>SEO</code> <code>Performance</code></p>
+<p><a href="https://primekore.com/"><strong>Abrir site →</strong></a></p>
+</td></tr>
 </table>
 
-## Competências e ferramentas
+## Experiência
 
-| Desenvolvimento e arquitetura web | Marketing, SEO e mensuração |
-| :--- | :--- |
-| PHP · JavaScript · HTML5 · CSS3 · WordPress · Drupal 7–10 · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · SEO on-page · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Estratégia de conteúdo · Geração de leads |
-| Bootstrap · Twig · APIs REST · Linux · Composer · Drush · Performance e acessibilidade web | Pesquisa de palavras-chave · Photoshop · Illustrator · ChatGPT · Gemini · Copilot · Automação de conteúdo |
+- **Out. 2026–atual · Nikko Turismo, São Paulo** — Analista de Marketing Digital; desenvolvimento do site, SEO, conteúdo e páginas de campanhas.
+- **Mai. 2025–atual · Projetos independentes** — Conteúdo para TikTok, YouTube, Facebook e Instagram; roteiros, storytelling, branding e crescimento orgânico.
+- **Fev.–mai. 2026 · PrimeKore — Soluções Digitais** — Sites, landing pages e lojas virtuais, SEO e gestão de projetos para negócios locais.
+- **Jul. 2018–fev. 2022 · XETID, Havana** — Portais institucionais em Drupal, SEO técnico, performance, acessibilidade, responsividade e integrações.
+- **Nov. 2017–jul. 2018 · XETID, Havana** — Suporte e desenvolvimento web; manutenção Drupal, correção de falhas e melhorias funcionais.
 
-## Experiência profissional
+<details><summary><strong>Projetos institucionais e trabalho técnico</strong></summary>
 
-- **set. 2026–atual · Nikko Turismo** — Analista de Marketing Digital, com atuação no desenvolvimento e evolução do site da agência, SEO, conteúdo e páginas de campanhas.
-- **mai. 2025–atual · Projetos independentes** — Conteúdo digital e social media; roteiros, storytelling, branding e estratégias de retenção e crescimento orgânico para TikTok, YouTube, Facebook e Instagram.
-- **fev.–mai. 2026 · PrimeKore — Soluções Digitais** — Especialista em Desenvolvimento Web e Marketing; websites, landing pages, lojas virtuais, SEO e gestão de projetos digitais para negócios locais.
-- **jul. 2018–fev. 2022 · XETID** — Especialista em Desenvolvimento Web; portais institucionais em Drupal, SEO técnico, acessibilidade, performance, interfaces responsivas e integrações de APIs.
-- **nov. 2017–jul. 2018 · XETID** — Especialista em Suporte e Desenvolvimento Web; manutenção de portais Drupal, correção de bugs e melhorias funcionais.
-
-<details>
-<summary><strong>Projetos institucionais em Drupal · MINCOM, Trâmites Online, XETID e ACRC</strong></summary>
-
-- **[Portal Institucional do MINCOM](https://www.mincom.gob.cu)** — Participação no desenvolvimento e otimização do portal do Ministério das Comunicações de Cuba: acessibilidade, SEO técnico, performance e estabilidade.
-- **[Sistema de Trâmites Online — MINCOM](https://www.mincom.gob.cu/tramites)** — Participação no desenvolvimento de serviços digitais, funcionalidades de autenticação e gestão de usuários, arquitetura e usabilidade.
-- **[Site Oficial da XETID](https://www.xetid.cu)** — Desenvolvimento e manutenção do portal institucional, atualização de funcionalidades, organização de conteúdo e otimização web.
-- **Portal Institucional da ACRC (2019)** — Participação em melhorias front-end, responsividade e organização de conteúdo.
-- **Qualidade de software (2019)** — Participação no processo de certificação de qualidade do portal oficial do MINCOM pelo Centro Nacional de Qualidade de Software.
+- [Portal do Ministério das Comunicações de Cuba (MINCOM)](https://www.mincom.gob.cu)
+- [Sistema de Trâmites Online do MINCOM](https://www.mincom.gob.cu/tramites)
+- [Portal oficial da XETID](https://www.xetid.cu)
+- Portal institucional da ACRC — melhorias front-end, responsividade e conteúdo.
+- Participação na certificação de qualidade do portal do MINCOM pelo Centro Nacional de Qualidade de Software (2019).
 
 </details>
 
-## Formação, certificações e idiomas
+## Competências
 
-**Engenharia em Ciências Informáticas** · Universidad de las Ciencias Informáticas (UCI), Havana · **set. 2010–jun. 2015**.  
-**Certificação EF SET de inglês** · **61/100 (C1 no teste, 2022)** · [Ver certificado](https://www.efset.org/cert/1CibFk).  
-**Idiomas (níveis declarados no currículo):** espanhol C2 (nativo) · português B1 · inglês B1 · russo A1.
+**Desenvolvimento:** PHP · JavaScript · HTML5 · CSS3 · WordPress · Drupal 7–10 · Elementor · ACF · Bootstrap · Twig · APIs REST · MySQL · PostgreSQL · Git · Linux · Composer · Drush
 
-Os níveis declarados de uso dos idiomas são apresentados separadamente do resultado do exame EF SET.
+**SEO e marketing:** SEO técnico/on-page · palavras-chave · Google Search Console · GA4 · Google Tag Manager · Google Ads · Google Business Profile · performance e métricas
 
-### Desenvolvimento autoral
+**Criação:** Photoshop · Adobe Illustrator · ChatGPT · Gemini · Copilot · ferramentas de IA e automação
 
-**Contextual Media SEO** — plugin WordPress independente para revisar metadados de imagens e usos contextuais, com interface em português, inglês e espanhol. O código-fonte permanece privado.
+## Formação e idiomas
 
-### Conteúdo & comunidade
+**Engenharia em Ciências Informáticas** · UCI, Havana · **2010–2015**  
+**EF SET English Certificate** · **61/100** · [Ver certificado](https://www.efset.org/cert/1CibFk)
 
-[El Narrador del Velo](https://www.tiktok.com/@elnarradordelvelo) — projeto próprio de storytelling e crescimento orgânico.
+**Idiomas conforme o CV:** espanhol nativo (C2) · português intermediário (B1) · inglês intermediário (B1) · russo iniciante (A1).
 
-## Conecte-se comigo
+## Outros projetos
 
-<p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/"><strong>LinkedIn</strong></a> · <a href="https://github.com/YoaRomay"><strong>GitHub</strong></a> · <a href="https://profiles.wordpress.org/yoaromay/"><strong>WordPress.org</strong></a></p>
+**Contextual Media SEO** — plugin independente para WordPress que revisa metadados e usos contextuais de imagens, com interface em português, inglês e espanhol.
 
-<sub>Os repositórios profissionais permanecem privados quando necessário. As imagens acima são capturas dos sites públicos.</sub>
+[El Narrador del Velo](https://www.tiktok.com/@elnarradordelvelo) — projeto próprio de conteúdo e storytelling.
+
+<p align="center"><a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.md"><strong>PT</strong></a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.en.md">EN</a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.es.md">ES</a></p>
