@@ -6,10 +6,15 @@
 
 Conecto desenvolvimento web, marketing e análise de dados para criar experiências digitais claras e melhorar processos. Sou formado em Engenharia em Ciências Informáticas pela **Universidad de las Ciencias Informáticas (UCI)**, em Havana, e tenho mais de seis anos de experiência no ecossistema digital.
 
+[**LinkedIn**](https://www.linkedin.com/in/yoandry-romay/) · [**WordPress.org**](https://profiles.wordpress.org/yoaromay/) · [**Site da Nikko Turismo**](https://nikkoturismo.com.br/)
+
 ### Atualmente
 
 **Analista de Marketing Digital na [Nikko Turismo](https://nikkoturismo.com.br/)**  
 São Paulo, Brasil · Desde **24 de setembro de 2026**
+
+
+Atuo também no desenvolvimento e evolução do site da agência, com componentes personalizados para WordPress, templates de pacotes turísticos, SEO e páginas de campanha.
 
 ### Áreas de atuação
 
@@ -27,6 +32,14 @@ São Paulo, Brasil · Desde **24 de setembro de 2026**
 - **Projetos independentes** · Conteúdo digital e social media · maio 2025–jul. 2026.
 - **XETID** · Suporte e Desenvolvimento Web · nov. 2017–fev. 2022.
 
+### Formação, certificações e idiomas
+
+- **Engenharia em Ciências Informáticas**, Universidad de las Ciencias Informáticas (UCI), Havana · **2010–2015**.
+- **EF SET English Certificate — 61/100 (C1 Advanced)** · maio de 2022.
+- **Qualidade de software:** participação no processo de certificação do portal institucional do MINCOM · 2019.
+- **Idiomas:** espanhol (nativo), português (avançado) e inglês.
+
+
 ### Projetos em destaque
 
 <table>
@@ -34,7 +47,8 @@ São Paulo, Brasil · Desde **24 de setembro de 2026**
 <td width="50%" valign="top">
   <a href="https://nikkoturismo.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnikkoturismo.com.br%2F?w=960&amp;h=560" alt="Nikko Turismo — website preview" width="100%" /></a>
   <p><strong><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></strong></p>
-  <p>Evolução de um site de turismo com templates dinâmicos para pacotes, componentes próprios e conteúdo estruturado.</p>
+  <p><strong>Projeto mais recente · 2026</strong></p>
+  <p>Desenvolvimento e evolução do site da agência: templates dinâmicos de pacotes turísticos, tema filho, plugins e componentes WordPress personalizados, além de integração com campanhas digitais.</p>
   <p><sub>WordPress · PHP · ACF · Elementor</sub></p>
   <p><a href="https://nikkoturismo.com.br/">Ver site ↗</a></p>
 </td>
@@ -66,6 +80,17 @@ São Paulo, Brasil · Desde **24 de setembro de 2026**
 
 **Nota:** Os projetos apresentados direcionam para sites públicos. Os repositórios de desenvolvimento permanecem privados.
 
+### Experiência anterior em projetos Drupal
+
+- **Sistema de Trâmites Online – MINCOM** (2019–2022): participação no desenvolvimento e manutenção de serviços digitais e melhorias de usabilidade.
+- **Portal Institucional da XETID** (2019–2020): manutenção, front-end, responsividade e performance.
+- **Portal Institucional do MINCOM** (2019–2020): SEO técnico, navegação e otimização do portal.
+- **Portal Institucional da ACRC** (2019): ajustes front-end e organização do conteúdo.
+
+### Desenvolvimento independente
+
+**Contextual Media SEO** — plugin próprio para WordPress com recursos de revisão de metadados de imagens, análise de contexto e suporte a inglês, espanhol e português. Código-fonte mantido em repositório privado.
+
 ### Conteúdo e presença digital
 
 [**El Narrador del Velo**](https://www.tiktok.com/@elnarradordelvelo) — Storytelling, criação de conteúdo e crescimento orgânico.
@@ -75,3 +100,7 @@ São Paulo, Brasil · Desde **24 de setembro de 2026**
 Valorizo interfaces intuitivas, segurança, organização do conteúdo e decisões apoiadas em dados. Uso ferramentas de IA para apoiar pesquisa, produção de conteúdo e automação, com revisão dos resultados.
 
 Parte do meu trabalho é desenvolvida em repositórios privados. Este perfil reúne minha apresentação profissional e os projetos que posso compartilhar publicamente.
+
+### Links profissionais
+
+[LinkedIn](https://www.linkedin.com/in/yoandry-romay/) · [WordPress.org](https://profiles.wordpress.org/yoaromay/) · [Nikko Turismo](https://nikkoturismo.com.br/)
