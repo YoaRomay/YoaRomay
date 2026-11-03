@@ -27,11 +27,48 @@ São Paulo, Brasil · Desde el **24 de septiembre de 2026**
 - **Proyectos independientes** · Contenido digital y redes sociales · mayo 2025–jul. 2026.
 - **XETID** · Soporte y Desarrollo Web · nov. 2017–feb. 2022.
 
-### Proyectos y presencia digital
+### Proyectos destacados
 
-- [**PrimeKore**](https://primekore.com.br) — Plataforma de servicios, landing pages, SEO e integración de herramientas de medición.
-- [**NC Vinílicos**](https://ncvinilicos.com.br) — Sitio corporativo y estructura de páginas orientadas a la conversión y la presencia digital.
-- [**El Narrador del Velo**](https://www.tiktok.com/@elnarradordelvelo) — Contenido digital, storytelling y estrategias de crecimiento orgánico.
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://nikkoturismo.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnikkoturismo.com.br%2F?w=960&amp;h=560" alt="Nikko Turismo — website preview" width="100%" /></a>
+  <p><strong><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></strong></p>
+  <p>Desarrollo de un sitio turístico con plantillas dinámicas para paquetes, componentes propios y contenido estructurado.</p>
+  <p><sub>WordPress · PHP · ACF · Elementor</sub></p>
+  <p><a href="https://nikkoturismo.com.br/">Visitar sitio ↗</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://ncvinilicos.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fncvinilicos.com.br%2F?w=960&amp;h=560" alt="NC Vinílicos — website preview" width="100%" /></a>
+  <p><strong><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></strong></p>
+  <p>Sitio de servicios enfocado en la conversión, diseño adaptable, SEO local y contacto directo por WhatsApp.</p>
+  <p><sub>WordPress · Elementor · SEO · WhatsApp</sub></p>
+  <p><a href="https://ncvinilicos.com.br/">Visitar sitio ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://primekore.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fprimekore.com.br%2F?w=960&amp;h=560" alt="PrimeKore — website preview" width="100%" /></a>
+  <p><strong><a href="https://primekore.com.br/">PrimeKore</a></strong></p>
+  <p>Plataforma de servicios digitales con páginas de oferta, presentación de soluciones y llamadas a la acción.</p>
+  <p><sub>WordPress · Desenvolvimento web · SEO</sub></p>
+  <p><a href="https://primekore.com.br/">Visitar sitio ↗</a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnikkoturismo.com.br%2Fcostao-matsuri%2F?w=960&amp;h=560" alt="Costão Matsuri — Landing Page — website preview" width="100%" /></a>
+  <p><strong><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri — Landing Page</a></strong></p>
+  <p>Landing page de campaña turística enfocada en presentar el evento y captar interesados.</p>
+  <p><sub>WordPress · Landing Page · Marketing</sub></p>
+  <p><a href="https://nikkoturismo.com.br/costao-matsuri/">Visitar sitio ↗</a></p>
+</td>
+</tr>
+</table>
+
+**Nota:** Los proyectos enlazan a sitios públicos. Sus repositorios de desarrollo permanecen privados.
+
+### Contenido y presencia digital
+
+[**El Narrador del Velo**](https://www.tiktok.com/@elnarradordelvelo) — Storytelling, creación de contenido y crecimiento orgánico.
 
 ### Cómo trabajo
 
