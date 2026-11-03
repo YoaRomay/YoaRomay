@@ -11,7 +11,7 @@ Trabajos reales enfocados en experiencia de usuario, mantenibilidad, rendimiento
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/"><img src="./assets/previews/nikko-turismo.png" alt="Nikko Turismo — website screenshot" width="100%"/></a>
+<a href="https://nikkoturismo.com.br/"><img src="./assets/previews/nikko-turismo.jpg" alt="Nikko Turismo — website screenshot" width="100%"/></a>
 <h3><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></h3>
 <p><strong>✦ PROYECTO MÁS RECIENTE · 2026</strong></p>
 <p>Sitio de agencia de viajes con tema hijo personalizado, plantillas dinámicas de paquetes, componentes e integraciones.</p>
@@ -19,7 +19,7 @@ Trabajos reales enfocados en experiencia de usuario, mantenibilidad, rendimiento
 <p><a href="https://nikkoturismo.com.br/"><strong>Visitar sitio →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://ncvinilicos.com.br/"><img src="./assets/previews/nc-vinilicos.png" alt="NC Vinílicos — website screenshot" width="100%"/></a>
+<a href="https://ncvinilicos.com.br/"><img src="./assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos — website screenshot" width="100%"/></a>
 <h3><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></h3>
 <p>Landing page adaptable para servicios de pisos vinílicos, orientada a conversión y contacto comercial.</p>
 <p><code>WordPress</code> <code>SEO local</code> <code>UX</code> <code>WhatsApp</code></p>
@@ -28,14 +28,14 @@ Trabajos reales enfocados en experiencia de usuario, mantenibilidad, rendimiento
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://primekore.com.br/"><img src="./assets/previews/primekore.png" alt="PrimeKore — website screenshot" width="100%"/></a>
+<a href="https://primekore.com.br/"><img src="./assets/previews/primekore.jpg" alt="PrimeKore — website screenshot" width="100%"/></a>
 <h3><a href="https://primekore.com.br/">PrimeKore</a></h3>
 <p>Desarrollo de la presencia digital, servicios, identidad visual y arquitectura de contenidos para captación.</p>
 <p><code>Web Design</code> <code>WordPress</code> <code>SEO</code> <code>Performance</code></p>
 <p><a href="https://primekore.com.br/"><strong>Visitar sitio →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="./assets/previews/costao-matsuri.png" alt="Costão Matsuri — website screenshot" width="100%"/></a>
+<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="./assets/previews/costao-matsuri.jpg" alt="Costão Matsuri — website screenshot" width="100%"/></a>
 <h3><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri</a></h3>
 <p>Landing page de campaña turística diseñada para presentar el evento y captar interesados.</p>
 <p><code>Landing Page</code> <code>UX</code> <code>Marketing</code> <code>WordPress</code></p>
