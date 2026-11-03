@@ -48,7 +48,7 @@ Trabajos reales enfocados en experiencia de usuario, mantenibilidad, rendimiento
 
 | Desarrollo y arquitectura web | Marketing, SEO y medición |
 | :--- | :--- |
-| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · SEO on-page · Google Ads · GA4 · Google Tag Manager · Search Console · Google Business Profile · UX · Conversão |
+| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Redacción publicitaria · Generación de leads · Estrategia de marketing · Redes sociales |
 
 ## Experiencia profesional
 
