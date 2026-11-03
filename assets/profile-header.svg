@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Yoandry Romay | Software Engineering, Web &amp; Digital Growth</title>
+<desc id="desc">Professional developer profile cover with midnight-blue background and turquoise accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#111d32"/>
+    <stop offset="100%" stop-color="#203451"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#39d6c1"/>
+    <stop offset="100%" stop-color="#6da6ff"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+<g opacity=".3" stroke="#52718e" fill="none">
+  <path d="M870 0L600 260 M990 0L720 260 M1110 0L840 260 M1200 80L1010 260"/>
+  <circle cx="1040" cy="129" r="125"/><circle cx="1040" cy="129" r="89"/>
+</g>
+<rect x="53" y="50" width="6" height="152" rx="3" fill="url(#line)"/>
+<text x="83" y="97" fill="#f6fbff" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="1.2">YOANDRY ROMAY</text>
+<text x="83" y="141" fill="#9dc0d5" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="500">Software Engineering  /  Web Development  /  Digital Growth</text>
+<rect x="83" y="166" width="322" height="34" rx="17" fill="#173f4b" stroke="#329990"/>
+<text x="102" y="189" fill="#8ff3e6" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="600">SÃO PAULO  •  BRAZIL  •  2026</text>
+<circle cx="1035" cy="128" r="59" fill="#1b4257" stroke="#4ccee0" stroke-width="2"/>
+<text x="1035" y="143" text-anchor="middle" fill="#ecf9ff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="45" letter-spacing="-2">YR</text>
+</svg>
