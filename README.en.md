@@ -48,7 +48,7 @@ Real-world work focused on usability, maintainability, performance and lead gene
 
 | Web development & architecture | Marketing, SEO & measurement |
 | :--- | :--- |
-| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · SEO on-page · Google Ads · GA4 · Google Tag Manager · Search Console · Google Business Profile · UX · Conversão |
+| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | Technical SEO · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Copywriting · Lead generation · Marketing strategy · Social media |
 
 ## Professional experience
 
