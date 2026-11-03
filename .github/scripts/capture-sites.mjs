@@ -16,7 +16,7 @@ let failures = 0;
 try {
   for (const site of sites) {
     const page = await browser.newPage({
-      viewport: { width: 1440, height: 900 },
+      viewport: { width: 1280, height: 800 },
       deviceScaleFactor: 1,
       locale: 'pt-BR',
       reducedMotion: 'reduce',
@@ -41,8 +41,9 @@ try {
       });
       await page.waitForTimeout(1500);
       await page.screenshot({
-        path: resolve('assets/previews', site.slug + '.png'),
-        type: 'png',
+        path: resolve('assets/previews', site.slug + '.jpg'),
+        type: 'jpeg',
+        quality: 84,
         fullPage: false,
         animations: 'disabled',
         timeout: 30000
