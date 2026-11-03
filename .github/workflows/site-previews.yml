@@ -38,7 +38,8 @@ jobs:
         run: node .github/scripts/capture-sites.mjs
       - name: Commit generated previews
         run: |
-          git add assets/previews/*.png
+          git rm -f --ignore-unmatch assets/previews/*.png
+          git add assets/previews/*.jpg
           if git diff --cached --quiet; then
             echo "Screenshots unchanged"
             exit 0
