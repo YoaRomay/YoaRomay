@@ -40,6 +40,21 @@ try {
         ]);
       });
       await page.waitForTimeout(1500);
+      // Dismiss optional cookie banners before capturing the website design.
+      // Decline non-essential cookies; never click a generic marketing CTA.
+      for (const label of ['Rejeitar', 'Recusar', 'Reject all', 'Não aceitar']) {
+        try {
+          const button = page.getByRole('button', { name: label, exact: true }).first();
+          if (await button.isVisible({ timeout: 1000 })) {
+            await button.click({ timeout: 3500 });
+            await page.waitForTimeout(600);
+            console.log('Dismissed cookie dialog for', site.slug, 'with', label);
+            break;
+          }
+        } catch {
+          // Try the next known decline button.
+        }
+      }
       await page.screenshot({
         path: resolve('assets/previews', site.slug + '.jpg'),
         type: 'jpeg',
