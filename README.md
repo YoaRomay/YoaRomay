@@ -1,5 +1,5 @@
-<p align="center"><img src="./assets/profile-header.svg" width="100%" alt="Yoandry Romay — Software Engineering · Web Development · Digital Growth" /></p>
-<p align="center">**Português** · [English](README.en.md) · [Español](README.es.md)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/profile-header.svg" width="100%" alt="Yoandry Romay — Software Engineering · Web Development · Digital Growth" /></p>
+<p align="center"><strong>Português</strong> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.en.md">English</a> · <a href="https://github.com/YoaRomay/YoaRomay/blob/main/README.es.md">Español</a></p>
 <p align="center"><strong>Engenharia de software, desenvolvimento web e estratégia digital.</strong></p>
 <p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/">LinkedIn</a> · <a href="https://profiles.wordpress.org/yoaromay/">WordPress.org</a> · <a href="https://nikkoturismo.com.br/">Nikko Turismo</a></p>
 
@@ -11,7 +11,7 @@ Projetos reais, com foco em experiência de uso, manutenção, performance e ger
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/"><img src="./assets/previews/nikko-turismo.jpg" alt="Nikko Turismo — website screenshot" width="100%"/></a>
+<a href="https://nikkoturismo.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nikko-turismo.jpg" alt="Nikko Turismo — website screenshot" width="100%"/></a>
 <h3><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></h3>
 <p><strong>✦ PROJETO MAIS RECENTE · 2026</strong></p>
 <p>Site da agência de viagens, com tema filho, templates dinâmicos de pacotes turísticos, componentes e integrações próprias.</p>
@@ -19,7 +19,7 @@ Projetos reais, com foco em experiência de uso, manutenção, performance e ger
 <p><a href="https://nikkoturismo.com.br/"><strong>Acessar site →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://ncvinilicos.com.br/"><img src="./assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos — website screenshot" width="100%"/></a>
+<a href="https://ncvinilicos.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos — website screenshot" width="100%"/></a>
 <h3><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></h3>
 <p>Landing page responsiva para serviços de pisos vinílicos, orientada à conversão e ao contato comercial.</p>
 <p><code>WordPress</code> <code>SEO local</code> <code>UX</code> <code>WhatsApp</code></p>
@@ -28,14 +28,14 @@ Projetos reais, com foco em experiência de uso, manutenção, performance e ger
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://primekore.com.br/"><img src="./assets/previews/primekore.jpg" alt="PrimeKore — website screenshot" width="100%"/></a>
+<a href="https://primekore.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/primekore.jpg" alt="PrimeKore — website screenshot" width="100%"/></a>
 <h3><a href="https://primekore.com.br/">PrimeKore</a></h3>
 <p>Desenvolvimento completo da presença digital, serviços, identidade visual e estrutura de conteúdo para captação.</p>
 <p><code>Web Design</code> <code>WordPress</code> <code>SEO</code> <code>Performance</code></p>
 <p><a href="https://primekore.com.br/"><strong>Acessar site →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="./assets/previews/costao-matsuri.jpg" alt="Costão Matsuri — website screenshot" width="100%"/></a>
+<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/costao-matsuri.jpg" alt="Costão Matsuri — website screenshot" width="100%"/></a>
 <h3><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri</a></h3>
 <p>Página de campanha turística criada para apresentar o evento e estimular solicitações comerciais.</p>
 <p><code>Landing Page</code> <code>UX</code> <code>Marketing</code> <code>WordPress</code></p>
@@ -48,30 +48,35 @@ Projetos reais, com foco em experiência de uso, manutenção, performance e ger
 
 | Desenvolvimento e arquitetura web | Marketing, SEO e mensuração |
 | :--- | :--- |
-| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Copywriting · Geração de leads · Estratégia de marketing · Social media |
+| PHP · JavaScript · HTML5 · CSS3 · WordPress · Drupal 7–10 · Elementor · ACF · MySQL · PostgreSQL · Git | SEO técnico · SEO on-page · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Estratégia de conteúdo · Geração de leads |
+| Bootstrap · Twig · APIs REST · Linux · Composer · Drush · Performance e acessibilidade web | Pesquisa de palavras-chave · Photoshop · Illustrator · ChatGPT · Gemini · Copilot · Automação de conteúdo |
 
 ## Experiência profissional
 
-- **2026–atual · Nikko Turismo** — Analista de Marketing Digital, desenvolvimento e evolução do site da agência, páginas de campanha e experiências digitais.
-- **2026 · PrimeKore — Soluções Digitais** — Desenvolvimento de sites e landing pages, SEO e soluções digitais para pequenos negócios.
-- **2017–2022 · XETID, Cuba** — Suporte e desenvolvimento web, com participação em projetos institucionais baseados em Drupal.
+- **set. 2026–atual · Nikko Turismo** — Analista de Marketing Digital, com atuação no desenvolvimento e evolução do site da agência, SEO, conteúdo e páginas de campanhas.
+- **mai. 2025–atual · Projetos independentes** — Conteúdo digital e social media; roteiros, storytelling, branding e estratégias de retenção e crescimento orgânico para TikTok, YouTube, Facebook e Instagram.
+- **fev.–mai. 2026 · PrimeKore — Soluções Digitais** — Especialista em Desenvolvimento Web e Marketing; websites, landing pages, lojas virtuais, SEO e gestão de projetos digitais para negócios locais.
+- **jul. 2018–fev. 2022 · XETID** — Especialista em Desenvolvimento Web; portais institucionais em Drupal, SEO técnico, acessibilidade, performance, interfaces responsivas e integrações de APIs.
+- **nov. 2017–jul. 2018 · XETID** — Especialista em Suporte e Desenvolvimento Web; manutenção de portais Drupal, correção de bugs e melhorias funcionais.
 
 <details>
-<summary><strong>Experiência técnica anterior: projetos Drupal e setor público (2019–2022)</strong></summary>
+<summary><strong>Projetos institucionais em Drupal · MINCOM, Trâmites Online, XETID e ACRC</strong></summary>
 
-- **MINCOM · Sistema de Trâmites Online (2019–2022):** participação no desenvolvimento, manutenção e melhorias de usabilidade, conteúdo e responsividade.
-- **XETID · Portal Institucional (2019–2020):** manutenção e ajustes front-end, responsividade e performance.
-- **MINCOM · Portal Institucional (2019–2020):** SEO técnico, melhorias de navegação, performance e organização de conteúdo.
-- **ACRC · Portal Institucional (2019):** melhorias front-end, conteúdo e responsividade.
-- **Certificação de qualidade do portal MINCOM (2019):** participação no processo de certificação técnica.
+- **[Portal Institucional do MINCOM](https://www.mincom.gob.cu)** — Participação no desenvolvimento e otimização do portal do Ministério das Comunicações de Cuba: acessibilidade, SEO técnico, performance e estabilidade.
+- **[Sistema de Trâmites Online — MINCOM](https://www.mincom.gob.cu/tramites)** — Participação no desenvolvimento de serviços digitais, funcionalidades de autenticação e gestão de usuários, arquitetura e usabilidade.
+- **[Site Oficial da XETID](https://www.xetid.cu)** — Desenvolvimento e manutenção do portal institucional, atualização de funcionalidades, organização de conteúdo e otimização web.
+- **Portal Institucional da ACRC (2019)** — Participação em melhorias front-end, responsividade e organização de conteúdo.
+- **Qualidade de software (2019)** — Participação no processo de certificação de qualidade do portal oficial do MINCOM pelo Centro Nacional de Qualidade de Software.
 
 </details>
 
-## Formação e idiomas
+## Formação, certificações e idiomas
 
-**Engenharia em Ciências Informáticas** · Universidad de las Ciencias Informáticas, Havana (**2010–2015**).  
-**EF SET English Certificate** · 61/100 (**C1 Advanced**, maio de 2022).  
-**Idiomas:** espanhol (nativo), português (avançado), inglês (profissional).
+**Engenharia em Ciências Informáticas** · Universidad de las Ciencias Informáticas (UCI), Havana · **set. 2010–jun. 2015**.  
+**Certificação EF SET de inglês** · **61/100 (C1 no teste, 2022)** · [Ver certificado](https://www.efset.org/cert/1CibFk).  
+**Idiomas (níveis declarados no currículo):** espanhol C2 (nativo) · português B1 · inglês B1 · russo A1.
+
+Os níveis declarados de uso dos idiomas são apresentados separadamente do resultado do exame EF SET.
 
 ### Desenvolvimento autoral
 
