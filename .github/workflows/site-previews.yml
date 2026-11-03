@@ -1,0 +1,50 @@
+name: Capture site previews
+
+on:
+  push:
+    branches:
+      - main
+      - feature/profile-redesign-2026-11-03
+    paths:
+      - ".github/workflows/site-previews.yml"
+      - ".github/scripts/capture-sites.mjs"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: site-previews-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout target branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm install --no-save --no-package-lock playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Capture public website screenshots
+        run: node .github/scripts/capture-sites.mjs
+      - name: Commit generated previews
+        run: |
+          git rm -f --ignore-unmatch assets/previews/*.png
+          git add assets/previews/*.jpg
+          if git diff --cached --quiet; then
+            echo "Screenshots unchanged"
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "assets: update project website screenshots"
+          git fetch origin "$GITHUB_REF_NAME"
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" rebase "origin/$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

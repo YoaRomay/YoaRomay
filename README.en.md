@@ -1,106 +1,88 @@
-# Yoandry Lázaro Romay Herrera
+<p align="center"><img src="./assets/profile-header.svg" width="100%" alt="Yoandry Romay — Software Engineering · Web Development · Digital Growth" /></p>
+<p align="center">[Português](README.md) · **English** · [Español](README.es.md)</p>
+<p align="center"><strong>Software engineering, web development and digital strategy.</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/">LinkedIn</a> · <a href="https://profiles.wordpress.org/yoaromay/">WordPress.org</a> · <a href="https://nikkoturismo.com.br/">Nikko Turismo</a></p>
 
-**Digital Marketing · Web Development · SEO & Analytics**
+I hold a Computer Science Engineering degree from UCI (Havana) and work at the intersection of web development, technical SEO, performance and digital acquisition. I currently work as a **Digital Marketing Analyst at Nikko Turismo**, in São Paulo, combining technical implementation with business goals.
 
-[Português](README.md) · **English** · [Español](README.es.md)
-
-I combine web development, marketing and data analysis to build clear digital experiences and improve processes. I hold a degree in Computer Science Engineering from **Universidad de las Ciencias Informáticas (UCI)** in Havana, with more than six years of experience in the digital sector.
-
-[**LinkedIn**](https://www.linkedin.com/in/yoandry-romay/) · [**WordPress.org**](https://profiles.wordpress.org/yoaromay/) · [**Nikko Turismo website**](https://nikkoturismo.com.br/)
-
-### Current role
-
-**Digital Marketing Analyst at [Nikko Turismo](https://nikkoturismo.com.br/)**  
-São Paulo, Brazil · Since **September 24, 2026**
-
-
-I also contribute to the development and evolution of the agency's website, including custom WordPress components, tour-package templates, SEO and campaign landing pages.
-
-### What I work on
-
-| Development | Marketing & measurement |
-| --- | --- |
-| WordPress and Drupal websites and landing pages | Technical and on-page SEO |
-| Theme customization, plugins and integrations | Google Ads and conversion strategies |
-| HTML, CSS, JavaScript and PHP | GA4, Google Tag Manager and Search Console |
-| MySQL, PostgreSQL and website maintenance | Content, performance analysis and applied AI |
-
-### Experience
-
-- **Nikko Turismo** · Digital Marketing Analyst · Sep. 2026–present.
-- **PrimeKore — Soluções Digitais** · Web Development and Marketing · Feb.–Jul. 2026.
-- **Independent projects** · Digital content and social media · May 2025–Jul. 2026.
-- **XETID** · Web Support and Development · Nov. 2017–Feb. 2022.
-
-### Education, certifications and languages
-
-- **Computer Science Engineering**, Universidad de las Ciencias Informáticas (UCI), Havana · **2010–2015**.
-- **EF SET English Certificate — 61/100 (C1 Advanced)** · May 2022.
-- **Software quality:** participated in the quality certification process for the MINCOM institutional portal · 2019.
-- **Languages:** Spanish (native), Portuguese (advanced) and English.
-
-
-### Featured projects
+## Selected projects
+Real-world work focused on usability, maintainability, performance and lead generation.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://nikkoturismo.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnikkoturismo.com.br%2F?w=960&amp;h=560" alt="Nikko Turismo — website preview" width="100%" /></a>
-  <p><strong><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></strong></p>
-  <p><strong>Most recent project · 2026</strong></p>
-  <p>Development and ongoing improvement of the agency website: dynamic tour-package templates, a child theme, custom WordPress plugins and components, plus campaign integrations.</p>
-  <p><sub>WordPress · PHP · ACF · Elementor</sub></p>
-  <p><a href="https://nikkoturismo.com.br/">Visit website ↗</a></p>
+<a href="https://nikkoturismo.com.br/"><img src="./assets/previews/nikko-turismo.jpg" alt="Nikko Turismo — website screenshot" width="100%"/></a>
+<h3><a href="https://nikkoturismo.com.br/">Nikko Turismo</a></h3>
+<p><strong>✦ MOST RECENT PROJECT · 2026</strong></p>
+<p>Travel agency website with a custom child theme, dynamic package templates, components and integrations.</p>
+<p><code>WordPress</code> <code>PHP</code> <code>ACF</code> <code>Elementor</code></p>
+<p><a href="https://nikkoturismo.com.br/"><strong>Visit website →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://ncvinilicos.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fncvinilicos.com.br%2F?w=960&amp;h=560" alt="NC Vinílicos — website preview" width="100%" /></a>
-  <p><strong><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></strong></p>
-  <p>Conversion-focused services website with responsive design, local SEO and direct WhatsApp contact.</p>
-  <p><sub>WordPress · Elementor · SEO · WhatsApp</sub></p>
-  <p><a href="https://ncvinilicos.com.br/">Visit website ↗</a></p>
+<a href="https://ncvinilicos.com.br/"><img src="./assets/previews/nc-vinilicos.jpg" alt="NC Vinílicos — website screenshot" width="100%"/></a>
+<h3><a href="https://ncvinilicos.com.br/">NC Vinílicos</a></h3>
+<p>Responsive vinyl-flooring services landing page focused on conversion and customer inquiries.</p>
+<p><code>WordPress</code> <code>SEO local</code> <code>UX</code> <code>WhatsApp</code></p>
+<p><a href="https://ncvinilicos.com.br/"><strong>Visit website →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://primekore.com.br/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fprimekore.com.br%2F?w=960&amp;h=560" alt="PrimeKore — website preview" width="100%" /></a>
-  <p><strong><a href="https://primekore.com.br/">PrimeKore</a></strong></p>
-  <p>Digital services website with service pages, solution showcases and conversion-oriented calls to action.</p>
-  <p><sub>WordPress · Desenvolvimento web · SEO</sub></p>
-  <p><a href="https://primekore.com.br/">Visit website ↗</a></p>
+<a href="https://primekore.com.br/"><img src="./assets/previews/primekore.jpg" alt="PrimeKore — website screenshot" width="100%"/></a>
+<h3><a href="https://primekore.com.br/">PrimeKore</a></h3>
+<p>Digital presence development, services, visual identity and conversion-oriented content architecture.</p>
+<p><code>Web Design</code> <code>WordPress</code> <code>SEO</code> <code>Performance</code></p>
+<p><a href="https://primekore.com.br/"><strong>Visit website →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnikkoturismo.com.br%2Fcostao-matsuri%2F?w=960&amp;h=560" alt="Costão Matsuri — Landing Page — website preview" width="100%" /></a>
-  <p><strong><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri — Landing Page</a></strong></p>
-  <p>Tourism campaign landing page focused on showcasing the event and generating inquiries.</p>
-  <p><sub>WordPress · Landing Page · Marketing</sub></p>
-  <p><a href="https://nikkoturismo.com.br/costao-matsuri/">Visit website ↗</a></p>
+<a href="https://nikkoturismo.com.br/costao-matsuri/"><img src="./assets/previews/costao-matsuri.jpg" alt="Costão Matsuri — website screenshot" width="100%"/></a>
+<h3><a href="https://nikkoturismo.com.br/costao-matsuri/">Costão Matsuri</a></h3>
+<p>Tourism campaign landing page designed to present the event and generate inquiries.</p>
+<p><code>Landing Page</code> <code>UX</code> <code>Marketing</code> <code>WordPress</code></p>
+<p><a href="https://nikkoturismo.com.br/costao-matsuri/"><strong>Visit website →</strong></a></p>
 </td>
 </tr>
 </table>
 
-**Note:** The projects above link to public websites. Their development repositories remain private.
+## Skills & tools
 
-### Earlier Drupal projects
+| Web development & architecture | Marketing, SEO & measurement |
+| :--- | :--- |
+| PHP · JavaScript · HTML · CSS · WordPress · Drupal · Elementor · ACF · MySQL · PostgreSQL · Git | Technical SEO · Google Ads · GA4 · GTM · Search Console · Google Business Profile · Copywriting · Lead generation · Marketing strategy · Social media |
 
-- **MINCOM Online Procedures System** (2019–2022): contributed to digital-service development, maintenance and usability improvements.
-- **XETID Institutional Portal** (2019–2020): site maintenance, front-end, responsive design and performance.
-- **MINCOM Institutional Portal** (2019–2020): technical SEO, navigation and portal optimization.
-- **ACRC Institutional Portal** (2019): front-end refinements and content organization.
+## Professional experience
+
+- **2026–present · Nikko Turismo** — Digital Marketing Analyst; website development and ongoing improvement, campaign landing pages and digital customer journeys.
+- **2026 · PrimeKore — Soluções Digitais** — Websites and landing pages, SEO, and digital solutions for small businesses.
+- **2017–2022 · XETID, Cuba** — Web development and support, including participation in Drupal-based institutional projects.
+
+<details>
+<summary><strong>Earlier technical experience: Drupal and public-sector projects (2019–2022)</strong></summary>
+
+- **MINCOM · Online Procedures System (2019–2022):** contributed to development, maintenance, usability, content and responsive improvements.
+- **XETID · Institutional Portal (2019–2020):** website maintenance, front-end improvements, responsiveness and performance.
+- **MINCOM · Institutional Portal (2019–2020):** technical SEO, navigation, performance and content architecture improvements.
+- **ACRC · Institutional Portal (2019):** front-end, content and responsive refinements.
+- **MINCOM portal quality certification (2019):** contributed to the technical certification process.
+
+</details>
+
+## Education & languages
+
+**Computer Science Engineering** · Universidad de las Ciencias Informáticas, Havana (**2010–2015**).  
+**EF SET English Certificate** · 61/100 (**C1 Advanced**, May 2022).  
+**Languages:** Spanish (native), Portuguese (advanced), English (professional working proficiency).
 
 ### Independent development
 
-**Contextual Media SEO** — a WordPress plugin for reviewing image metadata, analyzing content context and supporting English, Spanish and Portuguese. Its source code is kept in a private repository.
+**Contextual Media SEO** — an independent WordPress plugin for reviewing image metadata and contextual image usage, with interfaces in Portuguese, English and Spanish. Source code remains private.
 
-### Content and digital presence
+### Content & community
 
-[**El Narrador del Velo**](https://www.tiktok.com/@elnarradordelvelo) — Storytelling, digital content and organic audience growth.
+[El Narrador del Velo](https://www.tiktok.com/@elnarradordelvelo) — an independent storytelling and organic community-building project.
 
-### My approach
+## Let's connect
 
-I value intuitive interfaces, security, well-organized content and data-informed decisions. I use AI tools to support research, content production and automation, with human review of the results.
+<p align="center"><a href="https://www.linkedin.com/in/yoandry-romay/"><strong>LinkedIn</strong></a> · <a href="https://github.com/YoaRomay"><strong>GitHub</strong></a> · <a href="https://profiles.wordpress.org/yoaromay/"><strong>WordPress.org</strong></a></p>
 
-Some of my work lives in private repositories. This profile brings together my professional background and the projects I can share publicly.
-
-### Professional links
-
-[LinkedIn](https://www.linkedin.com/in/yoandry-romay/) · [WordPress.org](https://profiles.wordpress.org/yoaromay/) · [Nikko Turismo](https://nikkoturismo.com.br/)
+<sub>Professional repositories remain private where appropriate. The images above are screenshots of public websites.</sub>
