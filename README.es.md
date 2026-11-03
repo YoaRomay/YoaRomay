@@ -35,11 +35,11 @@ Las capturas enlazan con los sitios. La presentación en una columna mantiene im
 <p><a href="https://ncvinilicos.com.br/"><strong>Ver sitio →</strong></a></p>
 </td></tr>
 <tr><td width="100%">
-<a href="https://primekore.com/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/primekore.jpg" alt="PrimeKore website screenshot" width="100%" /></a>
-<h3><a href="https://primekore.com/">PrimeKore</a></h3>
+<a href="https://primekore.com.br/"><img src="https://raw.githubusercontent.com/YoaRomay/YoaRomay/main/assets/previews/primekore.jpg" alt="PrimeKore website screenshot" width="100%" /></a>
+<h3><a href="https://primekore.com.br/">PrimeKore</a></h3>
 <p>Proyecto de marca y presencia digital para servicios web y marketing: identidad visual, páginas de servicios, contenido y SEO.</p>
 <p><code>WordPress</code> <code>Web design</code> <code>SEO</code> <code>Performance</code></p>
-<p><a href="https://primekore.com/"><strong>Ver sitio →</strong></a></p>
+<p><a href="https://primekore.com.br/"><strong>Ver sitio →</strong></a></p>
 </td></tr>
 </table>
 
